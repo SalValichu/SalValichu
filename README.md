@@ -22,9 +22,9 @@ Languages I understand:
 - TypeScript - Fluently
 - Erlang - Somewhat fluently
 - MongoDB ( Kinda counts ) - Somewhat fluently
-# Not in order.
+## Not in order.
 
-# Contact me at:
+## Contact me at:
 Discord: **@salvali**
 Github: **SalValichu**
 Email: **salvalichuEnquiries@proton.me**
