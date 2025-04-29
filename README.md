@@ -4,25 +4,31 @@ I dont publish over 75% of my projects. I am not lazy..
 
 Languages I understand:
 - Python - Fluently
+- Flutter - Fluently
 - C++ - Fluently
 - C# - Fluently
 - C - Fluently
 - Go - Fluently
-- Ruby - Somewhat fluently
+- Ruby -  fluently
 - JavaScript - Fluently
 - Java - Fluently
-- Perl - Somewhat fluently
-- Rust - Somewhat fluently
+- Perl - fluently
+- Rust - fluently
 - SQL - Fluently
 - Swift - Fluently
 - Kotlin - Fluently
 - PHP - Fluently
-- R - Somewhat fluently
+- R - Fluently
 - Lua ( Including LuaU for ROBLOX ) - Fluently
 - TypeScript - Fluently
-- Erlang - Somewhat fluently
-- MongoDB ( Kinda counts ) - Somewhat fluently
+- Erlang - fluently
+- MongoDB - fluently
 ## Not in order.
+
+## Achievments I'm proud of!
+2x Google HoF
+3x Microsoft HoF
+Being a millionaire!
 
 ## Contact me at:
 Discord: **@salvali**
