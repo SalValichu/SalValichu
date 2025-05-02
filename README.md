@@ -1,6 +1,6 @@
-Hey, I'm sal, The only one.
+Hey, I'm Sal, The only one.
 DM me any ideas
-I dont publish over 75% of my projects. I am not lazy..
+I dont publish over 99% of my projects. I am not lazy..
 
 Languages I understand:
 - Python - Fluently
