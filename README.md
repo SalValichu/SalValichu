@@ -28,7 +28,6 @@ Languages I understand:
 ## Achievments I'm proud of!
 2x Google HoF
 3x Microsoft HoF
-Being a millionaire!
 
 ## Contact me at:
 Discord: **@salvali**
