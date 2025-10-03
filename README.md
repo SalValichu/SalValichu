@@ -23,6 +23,8 @@ Languages I understand:
 - TypeScript - Fluently
 - Erlang - fluently
 - MongoDB - fluently
+- Assembly - Semi-Fluent
+- Erlang (?) Semi-Fluent
 ## Not in order.
 
 ## Achievments I'm proud of!
