@@ -3,7 +3,7 @@
 I'm passionate about building and refining ideas, with a focus on creating impactful projects. I'm always experimenting, which means I don't publish everything, but I'm happy to discuss ideas!
 
 *   [Check out my Portfolio (WIP)](https://salvalichuportfolio.vercel.app)
-*This is unfinished. Contact on their does not work.*
+*This is unfinished. Contact on there does not work.*
 
 ---
 
