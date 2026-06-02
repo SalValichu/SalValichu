@@ -52,8 +52,3 @@ reach me on discord, Ion bite
 [![GitHub](https://img.shields.io/badge/SalValichu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalValichu)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salvalichubizenquiries@gmail.com)
 
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalValichu&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
-</div>
